@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="40cm" height="48cm" viewBox="140 1 733 589" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="190.225" y="260" width="628.05" height="65"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="190.225" y="260" width="628.05" height="65"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="504.25" y="289.3">
+      <tspan x="504.25" y="289.3">Dificultad para la inserción, recuperación, actualización y generación de reportes con la información de los </tspan>
+      <tspan x="504.25" y="305.3">estudiantes que conforman los grupos multidiciplinariosintegrados por el Programa EPSUM </tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="504.25" y="292.5">
+    <tspan x="504.25" y="292.5"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="141" y="418" width="180" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="141" y="418" width="180" height="70"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="231" y="441.8">
+      <tspan x="231" y="441.8">Aumento en la cantidad de </tspan>
+      <tspan x="231" y="457.8">Estudiantes en el </tspan>
+      <tspan x="231" y="473.8">Programa EPSUM</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="398.42" y="534" width="211.55" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="398.42" y="534" width="211.55" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="504.195" y="557.8">
+      <tspan x="504.195" y="557.8">Inexistencia de plataforma propia</tspan>
+      <tspan x="504.195" y="573.8">para almacenamiento de datos</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="231" y="453">
+    <tspan x="231" y="453"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="683.45" y="426" width="186.4" height="74"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="683.45" y="426" width="186.4" height="74"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="776.65" y="451.8">
+      <tspan x="776.65" y="451.8">Carencia de aseguramiento </tspan>
+      <tspan x="776.65" y="467.8">de la integridad de los datos </tspan>
+      <tspan x="776.65" y="483.8">de los estudiantes</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="776.65" y="463">
+    <tspan x="776.65" y="463"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="504.25" y="292.5">
+    <tspan x="504.25" y="292.5"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="776.65" y="463">
+    <tspan x="776.65" y="463"></tspan>
+  </text>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="504.25,328 504.25,374.5 231,374.5 231,421 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="504.25,325 504.25,374.995 776.65,374.995 776.65,424.991 "/>
+  <g>
+    <rect style="fill: #ffffff" x="150" y="100" width="158.2" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="150" y="100" width="158.2" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="229.1" y="123.8">
+      <tspan x="229.1" y="123.8">Confunción al consultar </tspan>
+      <tspan x="229.1" y="139.8">información</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="421.75" y="103" width="164.5" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="421.75" y="103" width="164.5" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="504" y="126.8">
+      <tspan x="504" y="126.8">Carencia de Integridad</tspan>
+      <tspan x="504" y="142.8">en la Información</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="504" y="130">
+    <tspan x="504" y="130"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="704.374" y="101" width="167.25" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="704.374" y="101" width="167.25" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="787.999" y="124.8">
+      <tspan x="787.999" y="124.8">Demora en generación</tspan>
+      <tspan x="787.999" y="140.8">de informes</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="788" y="128">
+    <tspan x="788" y="128"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="704.124" y="3" width="167.75" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="704.124" y="3" width="167.75" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="787.999" y="26.8">
+      <tspan x="787.999" y="26.8">Retardo en el procesos </tspan>
+      <tspan x="787.999" y="42.8">de pago a estudiantes</tspan>
+    </text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="787.999,156.007 787.999,207.499 504.25,207.499 504.25,258.992 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="787.999" y1="58.0051" x2="787.999" y2="99.9949"/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="504,158.007 504,208.499 504.25,208.499 504.25,258.992 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="229.1,155.007 229.1,206.999 504.25,206.999 504.25,258.992 "/>
+  <g>
+    <rect style="fill: #ffffff" x="401.8" y="3" width="204.4" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="401.8" y="3" width="204.4" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="504" y="26.8">
+      <tspan x="504" y="26.8">Dicufultad en la actualización</tspan>
+      <tspan x="504" y="42.8">de la información</tspan>
+    </text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="504,58.0068 504,59.0068 504,100.993 504,101.993 "/>
+  <g>
+    <rect style="fill: #ffffff" x="142.45" y="3" width="173.1" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="142.45" y="3" width="173.1" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="229" y="26.8">
+      <tspan x="229" y="26.8">Presentacaión inadecuada</tspan>
+      <tspan x="229" y="42.8">de los datos</tspan>
+    </text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="229,58.0068 229,78.5 229.1,78.5 229.1,98.9932 "/>
+  <g>
+    <rect style="fill: #ffffff" x="145.45" y="534" width="171.1" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="145.45" y="534" width="171.1" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="231" y="557.8">
+      <tspan x="231" y="557.8">Presencia territorial en 53 </tspan>
+      <tspan x="231" y="573.8">Minicipios </tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="436" y="425" width="136.7" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="436" y="425" width="136.7" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="504.35" y="448.8">
+      <tspan x="504.35" y="448.8">Manejo de datos</tspan>
+      <tspan x="504.35" y="464.8">en Suit de Ofimatica</tspan>
+    </text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="504.25,326.008 504.25,375.001 504.35,375.001 504.35,423.993 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="231,489.009 231,490.009 231,531.993 231,532.993 "/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="504.35,480.007 504.35,506.5 504.195,506.5 504.195,532.993 "/>
+  <g>
+    <rect style="fill: #ffffff" x="684.024" y="535" width="185.95" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="684.024" y="535" width="185.95" height="54"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="776.999" y="558.8">
+      <tspan x="776.999" y="558.8">Estudiantes proporcionan su </tspan>
+      <tspan x="776.999" y="574.8">información</tspan>
+    </text>
+  </g>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="776.65,501.009 776.65,517.501 776.999,517.501 776.999,533.993 "/>
+</svg>
