@@ -3218,6 +3218,9 @@ Slides - Backgrounds <section class="bg-primary">
 .bg-trans-dark {
   background: rgba(0, 0, 0, 0.8); }
 
+.bg-trans-green {
+  background: rgba(0, 119, 119, 0.6); }
+
 .bg-trans-light {
   background: rgba(0, 0, 0, 0.2); }
 
