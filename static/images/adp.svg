@@ -18,7 +18,7 @@
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="231" y="441.8">
       <tspan x="231" y="441.8">Aumento en la cantidad de </tspan>
       <tspan x="231" y="457.8">Estudiantes en el </tspan>
-      <tspan x="231" y="473.8">Programa EPSUM</tspan>
+      <tspan x="231" y="473.8">programa EPSUM</tspan>
     </text>
   </g>
   <g>
@@ -36,7 +36,7 @@
     <rect style="fill: #ffffff" x="683.45" y="426" width="186.4" height="74"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="683.45" y="426" width="186.4" height="74"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="776.65" y="451.8">
-      <tspan x="776.65" y="451.8">Carencia de aseguramiento </tspan>
+      <tspan x="776.65" y="451.8">Carencia en el aseguramiento </tspan>
       <tspan x="776.65" y="467.8">de la integridad de los datos </tspan>
       <tspan x="776.65" y="483.8">de los estudiantes</tspan>
     </text>
@@ -56,7 +56,7 @@
     <rect style="fill: #ffffff" x="150" y="100" width="158.2" height="54"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="150" y="100" width="158.2" height="54"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="229.1" y="123.8">
-      <tspan x="229.1" y="123.8">Confunción al consultar </tspan>
+      <tspan x="229.1" y="123.8">Confución al consultar </tspan>
       <tspan x="229.1" y="139.8">información</tspan>
     </text>
   </g>
@@ -64,7 +64,7 @@
     <rect style="fill: #ffffff" x="421.75" y="103" width="164.5" height="54"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="421.75" y="103" width="164.5" height="54"/>
     <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="504" y="126.8">
-      <tspan x="504" y="126.8">Carencia de Integridad</tspan>
+      <tspan x="504" y="126.8">Carencia de la integridad</tspan>
       <tspan x="504" y="142.8">en la Información</tspan>
     </text>
   </g>
